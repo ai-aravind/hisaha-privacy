@@ -40,7 +40,7 @@ Saha speaks using the text-to-speech engine already on your phone, restricted to
 
 ## Links
 
-The Settings screen contains one link to the developer's LinkedIn profile. It opens in your browser only if you tap it.
+The Settings screen contains two links: one to the developer's LinkedIn profile and one to this privacy policy. Each opens in your browser only if you tap it.
 
 ## Children
 
