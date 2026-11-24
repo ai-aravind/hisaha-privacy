@@ -56,4 +56,4 @@ If this policy changes, the updated version will be published at the same addres
 
 ## Contact
 
-Questions about this policy: sahana.aravind15@gmail.com
+Questions about this policy: ar.appcontact@gmail.com
